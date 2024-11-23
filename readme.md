@@ -1,0 +1,1 @@
+just simple utility to check if number is 7
