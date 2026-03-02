@@ -1,6 +1,6 @@
 {
   "name": "check-if-number-is-seven",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Exports 7 as const, and provides utility to check if number is seven.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/mafineeek/check-if-number-is-seven"
+    "url": "https://github.com/mafineeek/check-if-number-is-seven"
   },
   "keywords": [
     "is-seven",
@@ -20,10 +20,24 @@
   "author": "mafineeek",
   "license": "ISC",
   "dependencies": {
+    "@10xly/strict-equals": "^1.0.1",
+    "eleven": "^0.0.1",
+    "es-logical-not-operator": "^1.0.0",
+    "false-value": "^2.0.7",
     "five": "^0.8.0",
+    "is-actual-number": "^1.0.2",
+    "is-add-or-even-ms": "^1.0.0",
+    "is-even": "^1.0.0",
+    "is-number": "^3.0.0",
+    "is-number-odd-or-even": "^13.7.4",
     "is-odd": "^3.0.1",
     "is-ten": "^0.1.0",
     "is-thirteen": "^2.0.0",
+    "is-uneven": "^1.0.0",
+    "is-unodd": "^1.0.0",
+    "is-x-not-integer": "^1.0.0",
+    "not": "^0.1.0",
+    "true-value": "^3.0.2",
     "two": "^1.0.7"
   }
 }
